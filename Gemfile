@@ -26,6 +26,7 @@ gem 'hirb'
 # Allow rails to use jQuery
 gem 'jquery-rails'
 gem 'bootstrap-sass'
+# gem 'jekyll'
 
 
 # Use Active Storage variant
